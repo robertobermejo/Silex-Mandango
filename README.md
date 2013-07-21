@@ -3,7 +3,7 @@ Silex-Mandango
 
 **This library does not currently work. I inherited it and haven't found time to fix it yet. If you fancy it, feel free to download, fix and submit a pull request :)**
 
-[![Build Status](https://secure.travis-ci.org/mheap/Silex-Mandango.png?branch=master)](http://travis-ci.org/mheap/Silex-Mandango) [Currently no tests.]
+[![Build Status](https://secure.travis-ci.org/robertobermejo/Silex-Mandango.png?branch=master)](http://travis-ci.org/mheap/Silex-Mandango) [Currently no tests.]
 
 Installation
 ------------
